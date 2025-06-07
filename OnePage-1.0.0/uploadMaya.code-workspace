@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../uploadMaya"
+		},
+		{
+			"path": "dosen"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "uploadMaya"
+	}
+}

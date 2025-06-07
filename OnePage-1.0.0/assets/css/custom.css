@@ -1,0 +1,69 @@
+/* Gaya umum background dan teks */
+body,
+.index-page {
+    background-color: #1f2029 !important;
+    color: #ffffff !important;
+}
+
+/* Header */
+.header {
+    background-color: #1f2029 !important;
+}
+
+.header a,
+.navmenu a,
+.logo h1,
+.sitename {
+    color: #ffffff !important;
+}
+
+/* Button Get Started */
+.btn-getstarted,
+.btn-get-started {
+    background-color: #ffffff;
+    color: #1f2029;
+    border: none;
+}
+
+.btn-getstarted:hover,
+.btn-get-started:hover {
+    background-color: #ddd;
+    color: #1f2029;
+}
+
+/* Footer */
+.footer {
+    background-color: #1f2029 !important;
+    color: #ffffff !important;
+}
+
+.footer a {
+    color: #ffffff;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+/* Icon boxes */
+.icon-box {
+    background-color: #2a2b38;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* Judul dan paragraf */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #ffffff !important;
+}
+
+p {
+    color: #dddddd !important;
+}
